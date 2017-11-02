@@ -13,12 +13,10 @@ import time
 import logging
 import cPickle
 from sklearn import metrics
-import matplotlib.pyplot as plt
 import theano
 import theano.tensor as T
 
 import prepare_data as pp_data
-sys.path.append("/user/HS229/qk00006/my_code2015.5-/python/Hat")
 from data_generator import RatioDataGenerator
 
 from hat.models import Model
