@@ -1,5 +1,8 @@
-WORKSPACE="/vol/vssp/msos/qk/workspaces/ICASSP2018_audioset"
+# You need to modify the dataset path
 CPICKLE_DIR="/vol/vssp/msos/audioset/packed_features"
+
+# Workspace
+WORKSPACE=pwd
 
 # Train & predict. 
 THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python main.py train --cpickle_dir=$CPICKLE_DIR --workspace=$WORKSPACE
