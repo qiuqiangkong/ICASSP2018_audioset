@@ -1,3 +1,4 @@
+#!/bin/bash
 # You need to modify the dataset path. 
 CPICKLE_DIR="/vol/vssp/msos/audioset/packed_features"
 
