@@ -1,3 +1,8 @@
+# THIS CODE IS OLD AND HIGHLY SUGGEST USE THE LATEST CODE IN THIS LINK:
+https://github.com/qiuqiangkong/ICASSP2018_audioset
+
+===========================================================
+
 # Audio Set classification with attention model: A probabilistic perspective
 
 Author: Qiuqiang Kong (q.kong@surrey.ac.uk) and Yong Xu (yong.xu@surrey.ac.uk) contribute equally to this work, Wenwu Wang (w.wang@surrey.ac.uk) and Mark D. Plumbley (m.plumbley@surrey.ac.uk)
