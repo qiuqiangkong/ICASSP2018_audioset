@@ -1,5 +1,5 @@
-# THIS CODE IS OLD AND HIGHLY SUGGEST USE THE LATEST CODE IN THIS LINK:
-https://github.com/qiuqiangkong/ICASSP2018_audioset
+# THIS CODE IS DEPRECATED AND HIGHLY SUGGEST USE THE LATEST CODE HERE:
+https://github.com/qiuqiangkong/audioset_classification
 
 ===========================================================
 
